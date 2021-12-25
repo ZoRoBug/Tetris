@@ -1,0 +1,112 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Bg",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_level": 1,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 406,
+      "height": 696
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_scale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_quat": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "09c3bUJnIlHxKB090CYkOaB",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "audioDrop": {
+      "__uuid__": "726c333d-b781-4a4f-9156-db9de4666b3b"
+    },
+    "audioMerge": {
+      "__uuid__": "006bf7dd-49f0-46c1-b963-2eca4b4dc64c"
+    },
+    "audioScore": {
+      "__uuid__": "ee25b0d4-2276-4c49-85ae-5cb75c0f9ff5"
+    },
+    "audioSpeedUp": {
+      "__uuid__": "5d74f883-a710-468d-89e8-c6838505ff6e"
+    },
+    "prefabBlockUnit": {
+      "__uuid__": "9a32e915-478c-4a02-99f4-7b8944fdadcb"
+    },
+    "spriteFrameDropAni": {
+      "__uuid__": "4a0a7277-bb7f-4ffb-85fe-7b4618e6f20d"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "19b95ced-11a5-4d5c-97e5-799fdd999beb"
+    },
+    "fileId": "9f/vDOLTBPhKt9T/1aCqLO",
+    "sync": false
+  }
+]
